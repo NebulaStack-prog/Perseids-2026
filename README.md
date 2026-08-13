@@ -1,6 +1,6 @@
 # Perseids
 
-<img src="https://github.com/NebulaStack-prog/Perseids-2026/raw/main/P.png" width="200" height="230">
+<img src="https://github.com/NebulaStack-prog/Perseids-2026/raw/main/P.jpg" width="200" height="230">
 
 * **ID:** NS-P005
 * **Date:** 13.08.26
